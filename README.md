@@ -8,8 +8,6 @@ apps que façam a diferença na vida das pessoas.</p>
 <p align="center"><b>Abaixo alguns apps que desenvolvo para colocar em pratica tudo o que eu estudo.</b></p>
 <br />
 
-<p align="center"><a href="url"><b>Download App</b></a></p>
-
 <p align="center">
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/arZblMz.png" alt="Intro">
@@ -25,8 +23,6 @@ apps que façam a diferença na vida das pessoas.</p>
 </p>
 
 <br /> <br />
-
-<p align="center"><a href="url"><b>Download App</b></a></p>
 
 <p align="center">
   <kbd>
@@ -44,8 +40,6 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <br /> <br />
 
-<p align="center"><a href="url"><b>Download App</b></a></p>
-
 <p align="center">
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/PAmINjq.png" alt="Intro">
@@ -61,8 +55,6 @@ apps que façam a diferença na vida das pessoas.</p>
 </p>
 
 <br /> <br />
-
-<p align="center"><a href="url"><b>Download App</b></a></p>
 
 <p align="center">
   <kbd>
