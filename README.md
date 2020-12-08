@@ -6,7 +6,7 @@
 apps que façam a diferença na vida das pessoas.</p>
 
 <p align="center"><b>Abaixo alguns apps que desenvolvo para colocar em pratica tudo o que eu estudo.</b></p>
-<br /> <br />
+<br />
 
 <p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
 
@@ -26,6 +26,8 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <br />
 
+<p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
+
 <p align="center">
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/o11gkcL.png" alt="Intro">
@@ -42,6 +44,8 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <br />
 
+<p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
+
 <p align="center">
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/PAmINjq.png" alt="Intro">
@@ -57,6 +61,8 @@ apps que façam a diferença na vida das pessoas.</p>
 </p>
 
 <br />
+
+<p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
 
 <p align="center">
   <kbd>
