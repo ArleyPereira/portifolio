@@ -101,7 +101,7 @@ apps que façam a diferença na vida das pessoas.</p>
   Freelancer
 </h1>
 
-<p align="center">Abaixo estão 2 trabalhos finalizados e publicados na Google Play</p>
+<p align="center">Alguns freelancer publicados na Google Play</p>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.apsmobile.petsnetwork"><img src="https://i.imgur.com/yBNuR1E.jpg" width="350"></a>
