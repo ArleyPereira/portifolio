@@ -95,6 +95,18 @@ apps que façam a diferença na vida das pessoas.</p>
     <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/bLyhaDx.jpg" alt="Chat">
   </kbd>
 </p>
+<br />
+
+<h1 align="center">
+  Freelancer
+</h1>
+
+<p align="center">Abaixo estão 2 trabalhos finalizados e publicados na Google Play</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.apsmobile.petsnetwork"><img src="https://i.imgur.com/yBNuR1E.jpg" width="350"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.apsmobile.birddelivery"><img src="https://i.imgur.com/SQV86Qa.jpg" width="350"></a>
+</p>
 
 ## :blush: **Why?**
 
