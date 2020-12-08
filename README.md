@@ -44,19 +44,19 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <br />
 
-<p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
+<p align="center"><a href="https://github.com/ArleyPereira/Banco-Digital"><b>Ver projeto completo</b></a></p>
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/PAmINjq.png" alt="Intro">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/CwERz0u.jpg" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/P8s35hU.png" alt="Register adopt">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/zcnKl50.jpg" alt="Register adopt">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/SMn8cGF.png" alt="Chat">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/jLHV0NJ.jpg" alt="Chat">
   </kbd>
 </p>
 
