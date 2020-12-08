@@ -26,7 +26,7 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <br />
 
-<p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
+<p align="center"><a href="https://github.com/ArleyPereira/Netflix"><b>Ver projeto completo</b></a></p>
 
 <p align="center">
   <kbd>
@@ -62,7 +62,7 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <br />
 
-<p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
+<p align="center"><a href="https://github.com/ArleyPereira/Loja-Virtual"><b>Ver projeto completo</b></a></p>
 
 <p align="center">
   <kbd>
