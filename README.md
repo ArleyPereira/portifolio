@@ -8,7 +8,7 @@ apps que façam a diferença na vida das pessoas.</p>
 <p align="center"><b>Abaixo alguns apps que desenvolvo para colocar em pratica tudo o que eu estudo.</b></p>
 <br /> <br />
 
-<p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
+<p align="center"><a href="https://github.com/ArleyPereira/Delivery" target="_blank"><b>Ver projeto completo</b></a></p>
 
 <p align="center">
   <kbd>
