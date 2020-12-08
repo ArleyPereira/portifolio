@@ -22,7 +22,7 @@ apps que façam a diferença na vida das pessoas.</p>
   </kbd>
 </p>
 
-<br /> <br />
+<br />
 
 <p align="center">
   <kbd>
@@ -38,7 +38,7 @@ apps que façam a diferença na vida das pessoas.</p>
   </kbd>
 </p>
 
-<br /> <br />
+<br />
 
 <p align="center">
   <kbd>
@@ -54,7 +54,7 @@ apps que façam a diferença na vida das pessoas.</p>
   </kbd>
 </p>
 
-<br /> <br />
+<br />
 
 <p align="center">
   <kbd>
