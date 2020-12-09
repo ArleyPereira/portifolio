@@ -108,11 +108,9 @@ apps que façam a diferença na vida das pessoas.</p>
   <a href="https://play.google.com/store/apps/details?id=com.apsmobile.birddelivery"><img src="https://i.imgur.com/SQV86Qa.jpg" width="350"></a>
 </p>
 
-## :blush: **Why?**
+## :blush: **Sobre min**
 
-Animavita is a combination of two Latin words, ‘Animal’ and ‘Vitae’, which means respectively ‘Animal’ and ‘Life’. This is an idea to create or animate something that was born a while ago, when I realized that facebook is used to publicize adoption and also ask for help for animals that lives on the streets.
-
-Animavita's purpose is not to change how people use facebook to the activities described above, but to centralize the helpful information in a single application. Anyone can make an adoption request, but it doesn’t mean that the pet will be automatically adopted. It means that the person interested can talk to the person who registered the pet, allowing both sides to have a conversation, and the user to research and decide his favorite pet.
+Meu nome é Arley Pereira. Tenho 25 anos e moro em Jardim Limoeiro, Serra. Estudo Analise e Densenvolvimento de Sistema na faculdade UCL - Manguinos, onde entrei em 01/2018 e depois de alguns semestres vi que a área que eu quero seguir como profissional é ser Desenvolvedor Mobile atualmente para a plataforma Android. Estou há um tempo me preparando para assumir uma vaga na profissão, enquanto isso não acontece eu busco sempre que posso pegar servições como freelancer e também criar alguns apps para colocar em pratica os conhecimentos e desafios que surgem a cada projeto.
 
 ## :dizzy: **Roadmap**
 
