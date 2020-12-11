@@ -5,7 +5,7 @@
 <p align="center">Busco oportunidade para desenvolvedor Android Junior para juntos criarmos 
 apps que façam a diferença na vida das pessoas.</p>
 
-<p align="center"><b>Abaixo alguns apps que desenvolvo para colocar em pratica tudo o que eu estudo.</b></p>
+<p align="center"><b>Abaixo alguns apps que desenvolvo para colocar em prática tudo o que eu estudo.</b></p>
 <br />
 
 <p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
@@ -108,6 +108,6 @@ apps que façam a diferença na vida das pessoas.</p>
   <a href="https://play.google.com/store/apps/details?id=com.apsmobile.birddelivery"><img src="https://i.imgur.com/SQV86Qa.jpg" width="350"></a>
 </p>
 
-## :blush: **Sobre min**
+## Sobre min
 
 Meu nome é Arley Pereira. Tenho 25 anos e moro em Jardim Limoeiro, Serra. Estudo Analise e Densenvolvimento de Sistema na faculdade UCL - Manguinos, onde entrei em 01/2018 e depois de alguns semestres vi que a área que eu quero seguir como profissional é ser Desenvolvedor Mobile, atualmente para a plataforma Android. Estou há um tempo me preparando para assumir uma vaga na profissão, enquanto isso não acontece eu busco sempre que posso pegar serviços como freelancer e também criar alguns apps para colocar em pratica os conhecimentos e desafios que surgem a cada projeto.
