@@ -8,19 +8,19 @@ apps que façam a diferença na vida das pessoas.</p>
 <p align="center"><b>Abaixo alguns apps que desenvolvo para colocar em prática tudo o que eu estudo.</b></p>
 <br />
 
-<p align="center"><a href="https://github.com/ArleyPereira/Delivery"><b>Ver projeto completo</b></a></p>
+<p align="center"><a href="https://github.com/ArleyPereira/Delivery---Java"><b>Ver projeto completo</b></a></p>
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/5irqjNW.jpg" alt="Intro">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/JU7YhlS.jpg" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/YmyZtZQ.jpg" alt="Register adopt">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/hRpq8KZ.jpg" alt="Register adopt">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/c0lLV7g.jpg" alt="Chat">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/tosSqcv.jpg" alt="Chat">
   </kbd>
 </p>
 
