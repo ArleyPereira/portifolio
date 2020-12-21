@@ -48,15 +48,15 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/CwERz0u.jpg" alt="Intro">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/QRQGh5o.jpg" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/zcnKl50.jpg" alt="Register adopt">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/HxrwZbJ.jpg" alt="Register adopt">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/jLHV0NJ.jpg" alt="Chat">
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/zLGSfkn.jpg" alt="Chat">
   </kbd>
 </p>
 
