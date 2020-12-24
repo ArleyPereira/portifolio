@@ -62,7 +62,7 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <br />
 
-<p align="center"><a href="https://github.com/ArleyPereira/Loja-Virtual"><b>Ver projeto completo</b></a></p>
+<p align="center"><a href="https://github.com/ArleyPereira/Ecommerce---Java"><b>Ver projeto completo</b></a></p>
 
 <p align="center">
   <kbd>
