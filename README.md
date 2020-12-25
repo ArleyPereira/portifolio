@@ -80,7 +80,7 @@ apps que façam a diferença na vida das pessoas.</p>
 
 <br />
 
-<p align="center"><a href="https://github.com/ArleyPereira/OLX-Clone"><b>Ver projeto completo</b></a></p>
+<p align="center"><a href="https://github.com/ArleyPereira/OLX---Java"><b>Ver projeto completo</b></a></p>
 
 <p align="center">
   <kbd>
