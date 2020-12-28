@@ -97,6 +97,23 @@ apps que façam a diferença na vida das pessoas.</p>
 </p>
 <br />
 
+<p align="center"><a href="https://github.com/ArleyPereira/Conversor-de-Moedas"><b>Ver projeto completo</b></a></p>
+
+<p align="center">
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/YUtvafi.jpg" alt="Intro">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/WBqODui.jpg" alt="Register adopt">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/GjJclde.jpg" alt="Chat">
+  </kbd>
+</p>
+<br />
+
 <h1 align="center">
   Freelancer
 </h1>
